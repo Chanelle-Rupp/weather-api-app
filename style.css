@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    background-image: linear-gradient(#ffe185, #ff6ec7, #e77eff);
+    height: 100%;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+article {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;;
+}
+
+#info {
+    padding: 10rem;
+}
+
+#city {
+    font-size: 2rem;
+}
+
+#temp {
+    font-size: 7rem;
+}
+
+#temp {
+    display: inline-block;
+}
+
+#icon {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+#degree-symbol {
+    display: inline-block;
+    font-size: 7rem;
+}
+
+@media screen and (min-width: 640px){
+
+}
